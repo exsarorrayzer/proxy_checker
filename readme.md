@@ -1,5 +1,5 @@
 
-# Proxy Checker Tool - Rayzer  
+# 🇺🇸 Proxy Checker Tool - Rayzer  
 *(English Version)*  
 
 ## 📌 Overview  
@@ -39,8 +39,7 @@ For educational purposes only. Use responsibly.
 
 ---  
 
-🇹🇷
-# Proxy Checker Aracı - Rayzer  
+# 🇹🇷 Proxy Checker Aracı - Rayzer  
 *(Türkçe Versiyon)*  
 
 ## 📌 Genel Bakış  
